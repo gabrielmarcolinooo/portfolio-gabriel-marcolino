@@ -50,7 +50,4 @@ Sou apaixonado por tecnologia, desenvolvimento web e criação de soluções dig
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
  
-- `README.md`: Arquivo de apresentação principal  
-- `/catalogo-whatsapp/`: Projeto de sistema de vendas via WhatsApp  
-- `/site-iupiii/`: Site institucional com painel administrativo  
-- `/modelagem-banco-dados/`: Projetos de modelagem e scripts SQL  
+- `README.md`: Arquivo de apresentação principal e Links dos repositorios dos meus projetos.
