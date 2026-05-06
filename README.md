@@ -43,12 +43,12 @@ Sou apaixonado por tecnologia, desenvolvimento web e criação de soluções dig
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Site Buffet Infantil (Iupiii)** | Site institucional completo com painel administrativo, CRUD de galeria e integração com backend em PHP. | [Ver Projeto](./site-iupiii/) |
+| **SoftUI Generator** | Ferramenta web para criação de componentes visuais no estilo neumorphism, com interface interativa e personalização em tempo real. | [Ver Projeto](https://github.com/bielraul/SoftUI) |
 
 #### 🗃️ Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Modelagem Banco de Dados** | Scripts SQL e diagrama entidade-relacionamento para projetos acadêmicos. | [Ver Projeto](./modelagem-banco-dados/) |
-| **SoftUI Generator** | Ferramenta web para criação de componentes visuais no estilo neumorphism, com interface interativa e personalização em tempo real. | [Ver Projeto](https://github.com/bielraul/SoftUI) |
 
 ---
  
