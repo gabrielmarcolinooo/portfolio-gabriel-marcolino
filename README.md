@@ -39,18 +39,13 @@ Sou apaixonado por tecnologia, desenvolvimento web e criação de soluções dig
  
 ### 📂 Portfólio de Projetos
  
-#### 💻 Desenvolvimento Web
+#### 💻 Desenvolvimento Web 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Site Buffet Infantil (Iupiii)** | Site institucional completo com painel administrativo, CRUD de galeria e integração com backend em PHP. | [Ver Projeto](https://github.com/bielraul/Iupiii-Buffet-Infantil) |
 | **SoftUI Generator** | Ferramenta web para criação de componentes visuais no estilo neumorphism, com interface interativa e personalização em tempo real. | [Ver Projeto](https://github.com/bielraul/SoftUI) |
+| **Site Residencial Luz e Vida** | Desenvolvimento completo de site institucional, incluindo estrutura, design responsivo e otimização da experiência do usuário para apresentação dos serviços da empresa. | [Ver Projeto](https://casaderepousoluzevida.com.br/) |
 
-#### 🗃️ Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Modelagem Banco de Dados** | Scripts SQL e diagrama entidade-relacionamento para projetos acadêmicos. | [Ver Projeto](./modelagem-banco-dados/) |
-
----
  
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
