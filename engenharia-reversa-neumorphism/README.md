@@ -5,7 +5,7 @@ Este projeto consiste na recriação de uma interface inspirada no site **Neumor
 
 Desenvolvido como parte das atividades da disciplina de **Engenharia de Prompt e Aplicações em IA**, o projeto permitiu compreender na prática conceitos relacionados à construção de interfaces modernas, Soft UI (Neumorphism), responsividade e comportamento visual interativo. Além disso, foram aplicadas técnicas de observação estrutural da interface original para reconstrução do layout e dos controles visuais. 
 
-http://googleusercontent.com/image_generation_content/0
+<img width="1348" height="563" alt="image" src="https://github.com/user-attachments/assets/24de5746-3b64-40b8-b0fc-cf7047817fa9" />
 
 *Figura 1: Interface recriada inspirada no Neumorphism.io utilizando Engenharia Reversa.*
 
