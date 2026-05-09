@@ -54,7 +54,7 @@ Sou apaixonado por tecnologia, desenvolvimento web e criação de soluções dig
 | :-------------------------------- | :------------------------------------------------------------------------------ | :-----------------------------------------------------------------: |
 | **SoftUI Generator**  | Ferramenta web para criação de componentes visuais no estilo neumorphism, com interface interativa e personalização em tempo real.                    |          [Ver Projeto](https://github.com/bielraul/SoftUI) |
 
-#### 💻 Desenvolvimento Web
+#### 💻 Projetos & Aplicações 
 
 | Projeto                           | Descrição                                                                       |                                 Link                                |
 | :-------------------------------- | :------------------------------------------------------------------------------ | :-----------------------------------------------------------------: |
