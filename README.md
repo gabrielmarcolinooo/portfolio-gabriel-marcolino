@@ -53,10 +53,14 @@ Sou apaixonado por tecnologia, desenvolvimento web e criação de soluções dig
 
 | Projeto                           | Descrição                                                                       |                                 Link                                |
 | :-------------------------------- | :------------------------------------------------------------------------------ | :-----------------------------------------------------------------: |
-| **SoftUI Generator**              | Ferramenta web para criação de componentes visuais no estilo neumorphism, com interface interativa e personalização em tempo real.                         |          [Ver Projeto](https://github.com/bielraul/SoftUI)          |
 | **Site Buffet Infantil (Iupiii)** | Site institucional completo com painel administrativo, CRUD de galeria e integração com backend em PHP e MySQL.                                            |  [Ver Projeto](https://github.com/bielraul/Iupiii-Buffet-Infantil)  |
 | **Site Residencial Luz e Vida**   | Desenvolvimento de site institucional responsivo com foco em experiência do usuário, apresentação profissional dos serviços e presença digital da empresa. |         [Ver Projeto](https://casaderepousoluzevida.com.br/)        |
 | **RedirectHunter**                | Ferramenta em Python para análise de redirecionamentos HTTP/HTTPS, identificação de URLs finais e análise automatizada com Playwright/Selenium.            | [Ver Projeto](https://github.com/gabrielmarcolinooo/RedirectHunter) |
+
+#### Inteligencia Artificial
+| Projeto                           | Descrição                                                                       |                                 Link                                |
+| :-------------------------------- | :------------------------------------------------------------------------------ | :-----------------------------------------------------------------: |
+| **SoftUI Generator**              | Ferramenta web para criação de componentes visuais no estilo neumorphism, com interface interativa e personalização em tempo real.                         |          [Ver Projeto](https://github.com/bielraul/SoftUI)          |
 
 ---
 
