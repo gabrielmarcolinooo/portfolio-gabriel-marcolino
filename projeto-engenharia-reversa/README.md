@@ -1,101 +1,41 @@
-# 🎨 SoftUI — Gerador de Interface Neumorphism
+# 🎨 Engenharia Reversa de Interface — Clone do Neumorphism.io
 
 ## 📝 Descrição do Projeto
-O **SoftUI** é uma aplicação web moderna inspirada no conceito visual de **Soft UI / Neumorphism**, desenvolvida com foco em design minimalista, interatividade e experiência do usuário.
+Este projeto consiste na recriação de uma interface inspirada no site **Neumorphism.io**, utilizando técnicas de **Engenharia Reversa** aplicadas ao desenvolvimento web. O objetivo principal foi analisar visualmente e estruturalmente uma interface existente e reproduzir seus componentes, estilos e funcionalidades utilizando HTML, CSS e JavaScript.
 
-O projeto permite gerar componentes visuais em estilo neumórfico de forma dinâmica, possibilitando a personalização de propriedades como:
+Desenvolvido como parte das atividades da disciplina de **Engenharia de Prompt e Aplicações em IA**, o projeto permitiu compreender na prática conceitos relacionados à construção de interfaces modernas, Soft UI (Neumorphism), responsividade e comportamento visual interativo. Além disso, foram aplicadas técnicas de observação estrutural da interface original para reconstrução do layout e dos controles visuais. 
 
-- Cor do componente
-- Tamanho
-- Raio da borda
-- Distância da sombra
-- Intensidade
-- Blur (desfoque)
-- Direção da luz
+http://googleusercontent.com/image_generation_content/0
 
-Além da geração visual em tempo real, a aplicação também auxilia desenvolvedores e designers na criação de estilos CSS modernos para interfaces elegantes e responsivas.
-
-Desenvolvido como projeto de estudo e engenharia reversa de interfaces modernas, o sistema explora conceitos de:
-
-- Design System
-- UI/UX
-- Responsividade
-- Componentização
-- Geração dinâmica de estilos CSS
-
----
-
-## 📸 Preview do Projeto
-
-![Preview do SoftUI]<img width="1351" height="566" alt="image" src="https://github.com/user-attachments/assets/9d65bfb9-1677-4212-905e-7b77da45519a" />
-
-
-*Figura 1: Interface principal do gerador SoftUI inspirado em Neumorphism.*
-
----
+*Figura 1: Interface recriada inspirada no Neumorphism.io utilizando Engenharia Reversa.*
 
 ## 🚀 Tecnologias Utilizadas
-
-### 💻 Front-end
-- **React**
-- **TypeScript**
-- **Vite**
-- **Tailwind CSS**
-
-### ⚙️ Ferramentas & Recursos
-- **Node.js**
-- **Gemini API**
-- **Google AI Studio**
-- **CSS Moderno (Neumorphism)**
-
----
-
-## ✨ Funcionalidades
-
-- 🎨 Personalização visual em tempo real
-- 🌗 Interface moderna baseada em Soft UI
-- 📱 Layout responsivo
-- ⚡ Atualização dinâmica dos componentes
-- 🧩 Estrutura organizada e escalável
-- 💡 Geração visual para inspiração de interfaces
-- 🖱️ Controles intuitivos via sliders e inputs
-
----
-
-## 📚 Conceitos Aplicados
-
-Durante o desenvolvimento do projeto foram explorados conceitos importantes de desenvolvimento front-end moderno, como:
-
-- Componentização com React
-- Gerenciamento de estado
-- Responsividade
-- Design minimalista
-- Soft Shadows & Depth
-- UI baseada em Neumorphism
-- Estruturação de aplicações modernas com Vite
-
----
+* **Linguagens:** HTML5, CSS3 e JavaScript
+* **Conceitos:** Engenharia Reversa, Soft UI e Neumorphism
+* **Design:** Interface responsiva e minimalista
+* **Ferramentas:** Google AI Studio, VS Code e navegador web
+* **Estilização:** Sombras suaves, efeitos de profundidade e UI interativa
 
 ## 📊 Resultados e Aprendizados
+O projeto apresentou resultados positivos na recriação da interface e na compreensão dos conceitos de design moderno.
 
-O projeto proporcionou grande aprendizado prático em desenvolvimento de interfaces modernas e experiência do usuário.
+* **Recriação Visual:** Foi possível reproduzir o estilo visual Soft UI do site original.
+* **Interatividade:** Implementação de sliders, controles visuais e efeitos dinâmicos.
+* **Responsividade:** A interface foi adaptada para diferentes tamanhos de tela.
+* **Engenharia Reversa:** Aprendi a analisar estruturas visuais e identificar componentes importantes de uma aplicação web.
 
-### Principais aprendizados:
-- Criação de interfaces sofisticadas utilizando CSS avançado
-- Estruturação de aplicações React com Vite
-- Aplicação prática de Tailwind CSS
-- Desenvolvimento de componentes reutilizáveis
-- Melhoria na organização de projetos front-end
-- Exploração de tendências modernas de UI Design
+Além disso, o projeto ajudou no desenvolvimento de habilidades como:
+* Estruturação de layouts modernos;
+* Organização de componentes visuais;
+* Manipulação de CSS avançado;
+* Compreensão de UI/UX aplicada ao front-end.
+
+## 🔧 Como Executar
+1. Clone o repositório.
+2. Abra o projeto no VS Code.
+3. Execute o arquivo `index.html` no navegador.
+4. Utilize os controles da interface para gerar estilos Soft UI.
 
 ---
 
-## 🔧 Como Executar o Projeto
-
-### Pré-requisitos
-- Node.js instalado
-- npm ou yarn
-
-### Clone o repositório
-```bash
-git clone https://github.com/gabrielmarcolinooo/SoftUI.git
+[Voltar ao início](https://github.com/gabrielmarcolinooo/portfolio-gabriel-marcolino-de-oliveira)
