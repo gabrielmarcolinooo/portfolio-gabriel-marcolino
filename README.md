@@ -97,10 +97,8 @@ Abaixo, a organização deste repositório para facilitar a navegação e aprese
 │   ├── tsconfig.json
 │   └── vite.config.ts
 │
-├── ## 📂 Estrutura do Projeto
-
-```bash
-softui-lab-mvp/
+│
+├──softui-lab-mvp/
 │
 ├── src/
 │   ├── lib/
