@@ -97,8 +97,36 @@ Abaixo, a organização deste repositório para facilitar a navegação e aprese
 │   ├── tsconfig.json
 │   └── vite.config.ts
 │
-├── softui-lab-mvp/
-│   └── README.md
+├── ## 📂 Estrutura do Projeto
+
+```bash
+softui-lab-mvp/
+│
+├── src/
+│   ├── lib/
+│   │   ├── auth-service.js
+│   │   ├── designs-service.js
+│   │   ├── profile-service.js
+│   │   └── ui-utils.js
+│   │
+│   ├── App.tsx
+│   ├── firebase.js
+│   ├── index.css
+│   ├── main.tsx
+│   ├── script.js
+│   ├── state.js
+│   └── style.css
+│
+├── .env.example
+├── firebase-blueprint.json
+├── firestore.rules
+├── index.html
+├── package.json
+├── package-lock.json
+├── tsconfig.json
+├── vite.config.ts
+│
+└── README.md
 │
 └── vies-em-inteligencia-artificial/
     ├── README.md
